@@ -1,0 +1,12 @@
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\bin\Debug\netcoreapp2.0\Backend5.deps.json
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\bin\Debug\netcoreapp2.0\Backend5.runtimeconfig.json
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\bin\Debug\netcoreapp2.0\Backend5.runtimeconfig.dev.json
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\bin\Debug\netcoreapp2.0\Backend5.dll
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\bin\Debug\netcoreapp2.0\Backend5.pdb
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\obj\Debug\netcoreapp2.0\Backend5.csprojAssemblyReference.cache
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\obj\Debug\netcoreapp2.0\Backend5.csproj.CoreCompileInputs.cache
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\obj\Debug\netcoreapp2.0\Backend5.AssemblyInfoInputs.cache
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\obj\Debug\netcoreapp2.0\Backend5.AssemblyInfo.cs
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\obj\Debug\netcoreapp2.0\Backend5.dll
+C:\Users\пк\Source\Repos\Web-Backend5\Backend5\obj\Debug\netcoreapp2.0\Backend5.pdb
